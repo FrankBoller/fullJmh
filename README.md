@@ -5,6 +5,9 @@ test harness:
 
 * JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targetting the JVM.
 
+__my sample project:__
+[docs, code and results](https://github.com/frankboller/watcher/tree/master/myJmh/)
+
 also:
 [jmh-samples](http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-samples/src/main/java/org/openjdk/jmh/samples/)
 
